@@ -346,6 +346,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
+- <img src="https://api.iconify.design/mdi:chart-line-variant.svg?color=%232dd4bf" height="14"/> [Praesentire](https://github.com/Etha0916/praesentire-mcp) - Bilingual (English + Traditional Chinese) financial news sentiment scored by Claude. Three tools: `get_sentiment`, `get_sentiment_batch`, `compare_languages` (bilingual divergence as cross-market signal).
 
 <br />
 
